@@ -4,7 +4,7 @@
 
 
 ___________________________________________________________________
-## 👨🏻‍💻I am a UK-based researcher and developer focused on accelerating synthetic biology through computational automation and advanced CAD engineering. My current work centers on engineering robust local data pipelines, modeling chiral translation vectors, and designing biological logic gates.
+## 👨🏻‍💻I am a UK-based researcher and developer focused on accelerating synthetic biology through computational genomics and advanced CAD engineering. My current work centers on engineering robust local data pipelines, modeling chiral translation vectors, and designing biological logic gates.
 
 
 ___________________________________________________________________
